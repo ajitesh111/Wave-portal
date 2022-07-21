@@ -1,5 +1,7 @@
 # buildspace Wave Portal 👋 
 
+***BACKEND (SMART CONTRACT) PART IS IN THE "back-end" BRANCH OF THIS REPO***
+
 ### **Welcome!**
 To get started with this course, clone this repo and follow these commands:
 
